@@ -120,4 +120,18 @@
     'italic' => DOMPDF_FONT_DIR . 'sansus_webissimo-regular-webfont',
     'bold_italic' => DOMPDF_FONT_DIR . 'sansus_webissimo-regular-webfont',
   ),
+  'montserrat-bold' => 
+  array (
+    'normal' => DOMPDF_FONT_DIR . 'Montserrat-Light',
+    'bold' => DOMPDF_FONT_DIR . 'Montserrat-Light',
+    'italic' => DOMPDF_FONT_DIR . 'Montserrat-Light',
+    'bold_italic' => DOMPDF_FONT_DIR . 'Montserrat-Light',
+  ),
+  'montserrat-regular' => 
+  array (
+    'normal' => DOMPDF_FONT_DIR . 'Montserrat-Regular',
+    'bold' => DOMPDF_FONT_DIR . 'Montserrat-Regular',
+    'italic' => DOMPDF_FONT_DIR . 'Montserrat-Regular',
+    'bold_italic' => DOMPDF_FONT_DIR . 'Montserrat-Regular',
+  ),
 ) ?>
