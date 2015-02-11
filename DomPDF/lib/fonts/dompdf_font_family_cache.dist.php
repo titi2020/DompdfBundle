@@ -122,10 +122,10 @@
   ),
   'montserrat-bold' => 
   array (
-    'normal' => DOMPDF_FONT_DIR . 'Montserrat-Light',
-    'bold' => DOMPDF_FONT_DIR . 'Montserrat-Light',
-    'italic' => DOMPDF_FONT_DIR . 'Montserrat-Light',
-    'bold_italic' => DOMPDF_FONT_DIR . 'Montserrat-Light',
+    'normal' => DOMPDF_FONT_DIR . 'Montserrat-Bold',
+    'bold' => DOMPDF_FONT_DIR . 'Montserrat-Bold',
+    'italic' => DOMPDF_FONT_DIR . 'Montserrat-Bold',
+    'bold_italic' => DOMPDF_FONT_DIR . 'Montserrat-Bold',
   ),
   'montserrat-regular' => 
   array (
@@ -133,5 +133,12 @@
     'bold' => DOMPDF_FONT_DIR . 'Montserrat-Regular',
     'italic' => DOMPDF_FONT_DIR . 'Montserrat-Regular',
     'bold_italic' => DOMPDF_FONT_DIR . 'Montserrat-Regular',
+  ),
+  'montserrat-light' => 
+  array (
+    'normal' => DOMPDF_FONT_DIR . 'Montserrat-Light',
+    'bold' => DOMPDF_FONT_DIR . 'Montserrat-Light',
+    'italic' => DOMPDF_FONT_DIR . 'Montserrat-Light',
+    'bold_italic' => DOMPDF_FONT_DIR . 'Montserrat-Light',
   ),
 ) ?>

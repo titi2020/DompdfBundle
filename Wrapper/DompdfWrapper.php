@@ -32,7 +32,8 @@ class DompdfWrapper
 
 		$this->pdf = new \DOMPDF();
 
-		$this->pdf->set_paper(array(0,0,$w,$h));
+		$this->pdf->set_paper('a4', 'landscape');
+		//$this->pdf->set_paper(array(0,0,$w,$h));
 		$this->pdf->load_html($html);
 		$this->pdf->render();
 	}
